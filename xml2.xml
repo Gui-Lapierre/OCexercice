@@ -1,2 +1,6 @@
-<tagA>nothing in this tag
+<tagA>
+	<title>This is the main Title of XML2 file</title>
+
+nothing in this tag
+
 </tagA>

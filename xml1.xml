@@ -1,5 +1,6 @@
 <xml>
   First text in the main tag.
-  
+  	
+  <body>This is the body of the XML1 file</body>
   <footer>This is the footer</footer>
 </xml>
