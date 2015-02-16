@@ -5,6 +5,17 @@
 ### List d'items
 .List item 1
 .List item 2
+ . fre
+ . fre
+ . fre
+ 
+1. etet
+2. fhifjhi
+3. sjkij
+
+    jijij
+    jijzji
+    jiji
 
 ### Paragraphe:
 *text en italique* et ensuite un text normal puis un seul mot en italique : *mot*.
