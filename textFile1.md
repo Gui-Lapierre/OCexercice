@@ -1,10 +1,13 @@
 #This is a fun text file to test markdown langage
 
-. List item 1
-. List item 2
+## The idea is to train myself wouhou je suis content de faire ça en ce lundi presque ensoleillé.
 
-### Small titre 1
+### List d'items
+.List item 1
+.List item 2
 
-*text en italique ?*
+### Paragraphe:
+*text en italique* et ensuite un text normal puis un seul mot en italique : *mot*.
 
-**text en je sais pas quoi**
+Voici une ligne.
+Et une autre. Et un mot en gras : **gros** gars, victime du coca.
